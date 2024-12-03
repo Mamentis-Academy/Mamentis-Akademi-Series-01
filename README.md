@@ -1,5 +1,5 @@
 # Mamentis-Akademi-Series-01
-Mastering Containers and Kubernetes for Open Source Projects
+Introduction to Containers and Kubernetes for Open Source Projects
 
 ### Webinar Title: Introduction to Containers and Kubernetes for Open Source Projects
 
