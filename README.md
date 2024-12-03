@@ -1,3 +1,10 @@
+#Requirements
+
+- Docker for Desktop/Mac/Linux
+- Visual Studio Code
+
+#Content
+
 # Mamentis-Akademi-Series-01
 Introduction to Containers and Kubernetes for Open Source Projects
 
